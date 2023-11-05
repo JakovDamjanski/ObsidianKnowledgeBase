@@ -1,0 +1,4 @@
+- _Data base_ : a collection of interconnected data
+- _Data point_: A well known fact that can be saved and possesses implicit meaning.
+- _Data Base management system_: A software package through which we can create maintain a digital database
+- _MiniWorld_: A part of the real word for which data is gathered and put into the data base. (eg. grade management system for university students)

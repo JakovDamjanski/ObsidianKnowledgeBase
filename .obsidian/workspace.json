@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dc46a72d14f5c4e3",
+        "id": "483cb62478ced9e7",
         "type": "tabs",
         "children": [
           {
-            "id": "d517077b82e7e6b1",
+            "id": "bd5435493e4da0b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DataBases/ER model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DataBases/ER model.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DataBases/ER model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DataBases/ER model.md"
+              }
             }
           }
         ]
@@ -139,21 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d517077b82e7e6b1",
+  "active": "bd5435493e4da0b2",
   "lastOpenFiles": [
+    "DataBases/Attributes.md",
+    "DataBases/ER model.md",
+    "2023-11-05.md",
+    "DataBases/Entity.md",
+    "DataBases/Basic terms.md",
+    "DataBases/Data Bases.md",
+    "DataScience/Data science.md",
+    "DataScience/Web scraping - basics.md",
+    "Untitled 1.canvas",
+    "Theory of information project.md",
     "LinearAlgebra/Matrix.md",
     "Untitled.canvas",
-    "2023-11-05.md",
-    "DataScience/Web scraping - basics.md",
     "extended matrix.png",
-    "DataScience/Data science.md",
     "LinearAlgebra/vectors.md",
     "LinearAlgebra/Span.md",
     "LinearAlgebra/Linear combination.md",
     "LinearAlgebra/Linear algebra.md",
     "LinearAlgebra/Linear equations.md",
     "vector_properties.png",
-    "Theory of information project.md",
     "pivot_example.png",
     "matrices.png",
     "Pasted image 20231104150137.png"
