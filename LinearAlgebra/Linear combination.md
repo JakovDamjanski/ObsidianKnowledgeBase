@@ -1,0 +1,1 @@
+for given [[vectors]] $v_1,v_2,...v_p$ in $R^n$ and given scalars $c_1,c_2,...c_p$ , the vector y defined as $y=c_1v_1+...+c_pv_p$ is a linear combination of  $v_1,v_2,...v_p$ with weights $c_1,c_2,...c_p$.

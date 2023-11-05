@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4d5c498ae8567d",
+        "id": "dc46a72d14f5c4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e3a85d26b99beb",
+            "id": "d517077b82e7e6b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "43afdc3fcfeb1b54",
@@ -82,13 +82,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -139,9 +139,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6e3a85d26b99beb",
+  "active": "d517077b82e7e6b1",
   "lastOpenFiles": [
-    "Web scraping - basics.md",
-    "Theory of information project.md"
+    "LinearAlgebra/Matrix.md",
+    "Untitled.canvas",
+    "2023-11-05.md",
+    "DataScience/Web scraping - basics.md",
+    "extended matrix.png",
+    "DataScience/Data science.md",
+    "LinearAlgebra/vectors.md",
+    "LinearAlgebra/Span.md",
+    "LinearAlgebra/Linear combination.md",
+    "LinearAlgebra/Linear algebra.md",
+    "LinearAlgebra/Linear equations.md",
+    "vector_properties.png",
+    "Theory of information project.md",
+    "pivot_example.png",
+    "matrices.png",
+    "Pasted image 20231104150137.png"
   ]
 }
