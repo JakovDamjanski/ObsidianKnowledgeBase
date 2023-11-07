@@ -9,8 +9,13 @@ There are three types of attributes:
 - Multi-valued - When one entity can have multiple values for a given attribute.
 (e.g. PreviousDegrees (we denote it as {PreviousDegrees} to emphasise that it's multi-valued), a student can have multiple previous degrees)
 
+Attributes within the [[ER model]] diagram are displayed within elliptical bubbles. 
+
 ### Key attribute 
 An attribute for a certain type of entity, which is unique for every entity is called a key attribute for a given entity type.
+
+The name of the key attribute within the [[ER model]]  diagram is always underlined.
+
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBases/ER model.md",
+                "file": "DataScience/Data science.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBases/ER model.md",
+                "file": "DataScience/Data science.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBases/ER model.md",
+                "file": "DataScience/Data science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBases/ER model.md"
+                "file": "DataScience/Data science.md"
               }
             }
           }
@@ -148,27 +148,31 @@
   },
   "active": "bd5435493e4da0b2",
   "lastOpenFiles": [
-    "DataBases/Attributes.md",
-    "DataBases/ER model.md",
-    "2023-11-05.md",
-    "DataBases/Entity.md",
-    "DataBases/Basic terms.md",
-    "DataBases/Data Bases.md",
-    "DataScience/Data science.md",
     "DataScience/Web scraping - basics.md",
-    "Untitled 1.canvas",
-    "Theory of information project.md",
+    "DataScience/Data science.md",
+    "images/ER diagram cheat sheet.png",
     "LinearAlgebra/Matrix.md",
-    "Untitled.canvas",
-    "extended matrix.png",
-    "LinearAlgebra/vectors.md",
-    "LinearAlgebra/Span.md",
+    "LinearAlgebra/Linear equations.md",
     "LinearAlgebra/Linear combination.md",
     "LinearAlgebra/Linear algebra.md",
-    "LinearAlgebra/Linear equations.md",
-    "vector_properties.png",
-    "pivot_example.png",
-    "matrices.png",
+    "LinearAlgebra/vectors.md",
+    "LinearAlgebra/Span.md",
+    "DataBases/Relationships.md",
+    "DataBases/EER model.md",
+    "images/vector_properties.png",
+    "DataBases/ER model.md",
+    "DataBases/Entity.md",
+    "DataBases/Data Bases.md",
+    "DataBases/Basic terms.md",
+    "images/extended matrix.png",
+    "Theory of information project.md",
+    "images/pivot_example.png",
+    "images/matrices.png",
+    "images",
+    "DataBases/Attributes.md",
+    "2023-11-05.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Pasted image 20231104150137.png"
   ]
 }

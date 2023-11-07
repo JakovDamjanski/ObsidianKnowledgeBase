@@ -14,9 +14,10 @@ The database schema gives a description of the database, this includes:
 - the constraints within the database
 Most commonly the schema is represented as a diagram of the database schema.
 
-[[Entity]]
+Building the schema involves thinking about the following aspects:
+- [[Entity]]
+- [[Attributes]]
+- [[Relationships]]
 
-[[Attributes]]
-
-[[Relations]]
-
+A cheat sheet for ER diagram symbols can be seen on the image bellow: 
+![[ER diagram cheat sheet.png]]
