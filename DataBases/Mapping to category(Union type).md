@@ -1,0 +1,1 @@
+In this case we make a surrogate key for the union type, which is used as the primary key in the relationships which are derived from the entities that are a part of the union type.

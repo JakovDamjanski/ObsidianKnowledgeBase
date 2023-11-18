@@ -1,0 +1,3 @@
+The first step in this process is to identify the relationship S which is derived from the entity type  on the N side of the relationship.
+The primary that corresponds to the entity type of the 1 side of the relationship is placed within S as a foreign key.
+If there are attributes in this relationship those are nested in S too. (This rarely happens because we avoid adding attributes to 1:N relationships)

@@ -34,6 +34,8 @@ A Pivot is a position within the matrix A that corresponds to the leading 1 in  
 
 ## Algorithm for reducing the number of rows in a matrix:
 
+This algorithm is used for what is known as __row-reducing__.
+
 1. Start with the leftmost non-null column. That's the first pivot column (the pivot is at the top position).
 2. If there is a 0 at that position select a row where that is not the case and switch it with the current top row.
 3. Make switches to rows so that every row that begins with a 0 is bellow rows that do not begin with a 0.
