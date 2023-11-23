@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "483cb62478ced9e7",
+        "id": "0d186db0433a5d78",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5435493e4da0b2",
+            "id": "bf36d15f9c366cc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBases/Mapping multi valued attributes.md",
+                "file": "DataScience/R-squared.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d1a4454ba652e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classification error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08e0ed080632b5a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gini index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,9 +111,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBases/Mapping multi valued attributes.md",
+                "file": "Gini index.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBases/Mapping multi valued attributes.md",
+                "file": "Gini index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBases/Mapping multi valued attributes.md"
+                "file": "Gini index.md"
               }
             }
           }
@@ -133,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,37 +171,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd5435493e4da0b2",
+  "active": "08e0ed080632b5a9",
   "lastOpenFiles": [
+    "Classification error.md",
+    "Gini index.md",
+    "Pasted image 20231123020414.png",
+    "DataScience/R-squared.md",
+    "DataBases/Relationships.md",
     "DataBases/Options to map specializations and generalizations.md",
-    "DataBases/Mapping weak entity types.md",
-    "DataBases/Mapping to category(Union type).md",
+    "DataBases/Mapping ER model into a set of relationships.md",
+    "DataBases/Mapping N-ary relations.md",
     "DataBases/Mapping multi valued attributes.md",
     "DataBases/Mapping M to N relationsips.md",
     "DataBases/Mapping 1 to N relationships.md",
     "DataBases/Mapping 1 to 1 relations.md",
-    "DataBases/Mapping N-ary relations.md",
-    "DataBases/Mapping ER model into a set of relationships.md",
-    "DataBases/Relationships.md",
-    "DataBases/ER model.md",
-    "DataBases/Basic terms.md",
-    "DataBases/EER model.md",
+    "DataBases/Mapping weak entity types.md",
     "DataBases/Data Bases.md",
-    "DataScience/Data science.md",
-    "Data visualisation.md",
-    "LinearAlgebra/Span.md",
-    "LinearAlgebra/vectors.md",
-    "LinearAlgebra/Linear equations.md",
-    "LinearAlgebra/Linear combination.md",
-    "LinearAlgebra/Linear algebra.md",
-    "DataBases/Entity.md",
-    "DataBases/Attributes.md",
-    "LinearAlgebra/Matrix.md",
+    "DataBases/Constraints within the relational model.md",
+    "Sensitivity and specificity.md",
+    "DataScience/Recall and precision.md",
+    "DataScience/Types of missing data.md",
     "DataScience/Web scraping - basics.md",
+    "DataScience/Data science.md",
+    "DataScience/Handling missing values.md",
+    "DataScience/Handling outliers.md",
+    "DataScience/Imputation.md",
+    "Theory of information project.md",
+    "Plan for studying.md",
+    "images/raquared.png",
+    "DataBases/3NF.md",
+    "DataBases/Normalisation.md",
     "images/ER diagram cheat sheet.png",
     "images/vector_properties.png",
     "images/extended matrix.png",
-    "Theory of information project.md",
     "images/pivot_example.png",
     "images/matrices.png",
     "images",

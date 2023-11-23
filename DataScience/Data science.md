@@ -1,5 +1,6 @@
 The course covers the following topics:
 [[Web scraping - basics]]
-[[Data visualisation]]
-[[Missing value insertion]]
+[[Types of missing data]]
+[[Handling missing values]]
+[[Handling outliers]]
 [[Machine learning algorithms]]

@@ -1,2 +1,2 @@
 For each multi-valued attribute A in a given entity create a relationship R. 
-R will contain the attribute and in addition to this it will contain a key from the relationship derived from the entity type from which A is a part of. The primary key will be a composite of the attribute attribute and the foreign key.
+R will contain the attribute and in addition to this it will contain a key from the relationship derived from the entity type from which A is a part of. The primary key will be a composite key consisted of the attribute and the foreign key.
